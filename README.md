@@ -14,6 +14,7 @@ I’m a passionate IT undergraduate who turns ideas into functional, real-world 
 * 🔨 Built and deployed multiple projects including an Android booking app (Eco Stay Retreat) and full-stack web systems
 * 🌱 Currently seeking **Software Developer Internship** opportunities to grow in a professional environment
 * 👨‍💻 Passionate about clean code, problem solving, and modern software development practices
+* 👨‍💻 Portfolio: https://naveendilshan1.github.io/portfolio/ - Explore my featured projects and case studies
 * 🤝 Open to collaboration, internships, and learning opportunities
 * 💬 Ask me about React, .NET, Android development, or Firebase
 * ⚡ Fun fact: I love exploring new technologies and building things that solve real problems
