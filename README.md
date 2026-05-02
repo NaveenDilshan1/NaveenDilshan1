@@ -58,7 +58,7 @@ I’m a passionate IT undergraduate who turns ideas into functional, real-world 
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/Naveen](https://linkedin.com/in/Naveen)
+- **LinkedIn:** www.linkedin.com/in/naveen-dilshan-0932b9341
 - **Email:** sgnaveendil@gmail.com
 - **Phone:** 076-2387925
 
